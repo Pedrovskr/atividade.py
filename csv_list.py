@@ -6,5 +6,5 @@ def listar_conteudo(nomearquivo):
         for linha in leitor_csv:
             print(linha)
             
- arquivo = 'articles.csv'
- listar_conteudo(arquivo)
+arquivo = 'articles.csv'
+listar_conteudo(arquivo)
